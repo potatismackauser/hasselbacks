@@ -1,5 +1,5 @@
 # hasselbacks
 hasselbacksmackor
-En programkod i python 2.7 att generera hasselbacksmackor
+En programkod i MATLAB 2019b att generera hasselbacksmackor
 
 Input: stektid, smoersyra, saltmaengd
