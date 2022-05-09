@@ -1,0 +1,5 @@
+function macka(salt, faerg, typ, voertstyrka)
+
+disp(['Mackunderlaegget till potatisen e ' salt ' saltad, faergad ' faerg]);
+
+end
